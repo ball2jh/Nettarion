@@ -15,7 +15,7 @@ export const Route = createRootRoute({
       { title: "Nettarion" },
       {
         name: "description",
-        content: "Nettarion LLC — Software & Hardware",
+        content: "Nettarion LLC — Software",
       },
     ],
     links: [

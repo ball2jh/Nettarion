@@ -61,9 +61,9 @@ const products = [
   },
   {
     name: "Aether",
-    tagline: "Smart air purification",
+    tagline: "Open-source air purifier",
     description:
-      "Open-source air purifier — monitor air quality in real time and breathe cleaner air at home.",
+      "An open-source DIY air purifier — monitor air quality in real time and breathe cleaner air at home.",
     href: "https://github.com/ball2jh/airpurifier",
     cta: "View on GitHub",
     accentClass: "text-sky-400",
@@ -95,7 +95,7 @@ function Home() {
       <section className="pt-14 pb-10 md:pt-20 md:pb-14">
         <div className="max-w-7xl mx-auto px-6 md:px-10 lg:px-16">
           <p className="text-xs font-600 uppercase tracking-[0.2em] text-text-muted mb-4">
-            Software &amp; Hardware
+            Software
           </p>
           <h1 className="text-3xl md:text-5xl lg:text-6xl font-800 tracking-tight leading-[1.08] max-w-3xl">
             Building tools
@@ -103,8 +103,8 @@ function Home() {
             that just work.
           </h1>
           <p className="mt-4 text-base md:text-lg text-text-muted max-w-xl leading-relaxed">
-            Nettarion builds software and hardware products — from fitness
-            equipment integrations to smart home devices.
+            Nettarion builds software products — from fitness equipment
+            integrations to lawn care management.
           </p>
         </div>
       </section>
