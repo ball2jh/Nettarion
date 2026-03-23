@@ -59,8 +59,13 @@ function RootDocument({ children }: Readonly<{ children: ReactNode }>) {
           <div className="max-w-7xl mx-auto px-6 md:px-10 lg:px-16 h-16 flex items-center justify-between">
             <a
               href="/"
-              className="text-sm font-800 tracking-[0.15em] uppercase text-text"
+              className="flex items-center gap-2.5 text-sm font-800 tracking-[0.15em] uppercase text-text"
             >
+              <img
+                src="/logo.png"
+                alt=""
+                className="w-7 h-7 rounded-full"
+              />
               Nettarion
             </a>
           </div>
